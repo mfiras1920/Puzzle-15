@@ -12,7 +12,7 @@
 2. Masukkan 4 angka pada setiap baris dipisah dengan spasi
 3. Pada baris terakhir, tidak diberikan newline
 #### contoh:
-* 1 2 3 4
-* 5 6 7 8
-* 9 10 11 12
-* 13 14 15 16
+1 2 3 4<br/>
+5 6 7 8<br/>
+9 10 11 12<br/>
+13 14 15 16<br/>
